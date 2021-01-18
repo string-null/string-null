@@ -5,9 +5,9 @@
 <p align="center">
     <a href="https://discordapp.com/users/749998774566387742">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-! Null%236232-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
-  <a href="https://github.com/rutkuli">
+  <a href="https://github.com/string-null">
    <img alt="Github" src="https://img.shields.io/github/followers/string-null?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
-   <a href="https://rutkuli.github.io/">
+   <a href="https://inull.es/">
    <img alt="Github" src="https://img.shields.io/website?label=inull.es&style=for-the-badge&url=https://inull.es/"></a> 
 </p>
 
