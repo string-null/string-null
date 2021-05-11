@@ -3,9 +3,8 @@
     <img src="https://cdn.discordapp.com/attachments/798251644700721192/800779225538887700/M2Uhzyn.png"></a>
 </p>
 <p align="center">
-    <a href="https://discordapp.com/users/789818297133957171">
-      <a href="https://discordapp.com/users/749998774566387742">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Juanjo%237253-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
+    <a href="https://discordapp.com/users/749998774566387742">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-! Null%236232-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>    
   <a href="https://github.com/string-null">
    <img alt="Github" src="https://img.shields.io/github/followers/string-null?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
    <a href="https://inull.es/">
